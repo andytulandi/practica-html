@@ -1,0 +1,61 @@
+header{
+    border: 1px solid rgb(17, 15, 15); /*borde de header*/
+    background-color: tomato; /*color de fondo*/
+    border-radius: 3px; /*borde de radio*/
+    width: 100%; /*ancho del color */
+    height: 100px; /*alto del color*/
+    display: flex;
+    justify-content: space-between; 
+    margin: 10px;
+}
+nav{
+    background-color: yellow;
+    height: 30px;
+    border-radius: 5px;
+}
+.maingrande{
+    display: flex;
+    margin: 5px;
+    border-radius: 5px;
+    
+}
+.mainpequeño{
+    background-color: blue;
+    margin: 10px;
+    border-radius: 5px;
+    width: 70%;
+    height: 400px;
+}
+article{
+    background-color: rgb(6, 143, 13);
+    border-radius: 5px;
+    margin: 10px;
+    height: 300px;
+
+}
+section{
+    background-color: rgb(75, 216, 87);
+    margin: 10px;
+    border-radius: 5px;
+    height: 75px;
+}
+.footermain{
+    background-color: rgb(236, 64, 179);
+    margin: 10px;
+    border-radius: 5px;
+    height: 60px;
+}
+p{
+    background-color: rgb(236, 64, 179);
+}
+aside{
+    background-color: rgb(11, 126, 88);
+    border-radius: 5px;
+    width: 30%;
+}
+
+footer{
+    background-color: rgb(218, 43, 165);
+    border-radius: 5px;
+    height: 100px
+}

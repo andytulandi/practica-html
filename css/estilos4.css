@@ -1,0 +1,14 @@
+.maingrande{
+    background-image: url(../img/imagensquare.jpg_wh860.jpg);
+}
+.mainpequeño{
+    background-color: rgba(226, 221, 221, 0.664);
+    display: flex;
+    height: 100px;
+}
+.imagen{
+    background-image: url(../img/1-86b5af5e0b.jpg);
+    width: 40
+    px;
+    margin: 20px;
+}

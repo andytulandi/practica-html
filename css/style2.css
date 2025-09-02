@@ -1,0 +1,40 @@
+header{
+    background-color: rgba(70, 29, 17, 0.966);
+    text-align: center;
+    border-radius: 3px;
+    
+}
+nav{
+    background-color: rgb(38, 116, 189);
+    text-align: center;
+    border-radius: 3px;
+}
+main{
+    background-color: rgb(4, 31, 31);
+    display: flex;
+    border-radius: 3px;
+}
+article{
+    background-color: rgb(59, 194, 194);
+    width: 80%; /*ancho del color */
+    text-align: center;
+    border-radius: 1px;
+    margin: 1px;
+    
+}
+section{
+    background-color: rgb(17, 110, 110);
+    text-align: center;
+    width: 100%; /*ancho del color */
+    border: 2px;
+}
+aside{
+    background-color: rgb(201, 127, 17);
+    text-align: center;
+    width: 20%; /*ancho del color */
+    margin: 1px;
+}
+footer{
+    background-color: rgb(136, 18, 110);
+    text-align: center;
+}
